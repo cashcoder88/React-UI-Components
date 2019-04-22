@@ -25,3 +25,8 @@
     border: 1px solid lightgrey;
     
 }
+
+.card-content a {
+    text-decoration: none;
+    color: grey;
+}
