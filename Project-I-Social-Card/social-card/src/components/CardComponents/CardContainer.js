@@ -1,7 +1,7 @@
 import React from 'react';
 import './Card.css';
-import CardBanner from './components/CardComponents/CardBanner.js';
-import CardContent from './components/CardComponents/CardContent.js';
+import CardBanner from './CardBanner';
+import CardContent from './CardContent';
 
 
 
@@ -15,4 +15,9 @@ function CardContainer() {
 }
 // https://www.reactjs.org
 export default CardContainer;
+
+
+
+
+
 
