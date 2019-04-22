@@ -2,6 +2,9 @@
 .card-container {
     display: flex;
     flex-direction: column;
+    height: 450px;
+    align-items: flex-end;
+    
 }
 
 .card-banner {
@@ -11,7 +14,7 @@
 
 .card-banner img {
     width: 75%;
-    height: auto;
+    height: 100%;
 }
 
 .card-content {
@@ -19,4 +22,6 @@
     justify-items: flex-end;
     flex-wrap: wrap;
     width: 75%;
+    border: 1px solid lightgrey;
+    
 }
