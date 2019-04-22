@@ -7,10 +7,12 @@ import CardContent from './CardContent';
 
 function CardContainer() {
   return (
-      <div className="card-container">
-            <CardBanner />
-            <CardContent />
-         </div>
+      <a class="anchor" href="https://www.reactjs.org">
+            <div className="card-container">
+                  <CardBanner />
+                  <CardContent />
+            </div>
+      </a>
       );
 }
 // https://www.reactjs.org

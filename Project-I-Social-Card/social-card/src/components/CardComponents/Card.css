@@ -4,7 +4,13 @@
     flex-direction: column;
     height: 450px;
     align-items: flex-end;
+    cursor: pointer;
     
+}
+
+.anchor {
+    text-decoration: none;
+    color: black;
 }
 
 .card-banner {
