@@ -2,17 +2,18 @@
 .header-container {
     display: flex;
     flex-wrap: nowrap;
-    
 }
 
 .header-content {
-    justify-content: flex-end;
+    align-content: flex-start;
+   
     
 }
 
 
 .image-thumbnail img {
     width: 60px;
+    
 
 }
 
@@ -20,6 +21,11 @@
     /* border: 1px solid red; */
     font-size: 10px;
   
+}
+
+.header-title h1 {
+    margin-top: 5px;
+    font-size: 15px;
 }
 
 strong {

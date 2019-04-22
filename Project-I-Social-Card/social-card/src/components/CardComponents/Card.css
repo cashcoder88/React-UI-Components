@@ -19,7 +19,7 @@
 }
 
 .card-banner img {
-    width: 75%;
+    width: 90%;
     height: 100%;
 }
 
@@ -27,7 +27,7 @@
     display: flex;
     justify-items: flex-end;
     flex-wrap: wrap;
-    width: 75%;
+    width: 90%;
     border: 1px solid lightgrey;
     
 }
