@@ -1,1 +1,28 @@
 /* All styles for your header Components live here */
+.header-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.header-content {
+    /* border: 1px solid red; */
+
+    
+}
+
+
+.image-thumbnail img {
+    width: 60px;
+
+}
+
+.header-title {
+    /* border: 1px solid red; */
+    font-size: 10px;
+  
+}
+
+strong {
+    font-size: 12px;
+    color: grey;
+}
