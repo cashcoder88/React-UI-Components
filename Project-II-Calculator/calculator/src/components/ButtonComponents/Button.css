@@ -1,0 +1,67 @@
+.action-main {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+
+.action-main p {
+    justify-content: flex-end;
+
+
+}
+
+.action-zero {
+    display: flex;
+    text-align: end;
+    background: black;
+    height: 111px;
+    align-items: center;
+    font-size: 50px;
+    padding-right: 5px;
+}
+
+.action-zero p {
+    width: 100%;
+    color: white;
+    
+}
+
+.btnW {
+    display: flex;
+    height: 111px;
+    width: 25%;
+    background: white;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+    border: 1px solid grey;
+}
+
+.btnR {
+    display: flex;
+    height: 111px;
+    width: 25%;
+    background: #b52020;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    border: 1px solid grey;
+}
+
+
+.btnBig {
+    display: flex;
+    width: 75%;
+    justify-content: center;
+    background: white;
+    max-height: 111px;
+    align-items: center;
+    font-size: 50px;
+    color: black;
+    border: 1px solid grey;
+    height: 111px;
+}
