@@ -1,0 +1,4 @@
+.calc-main .first, .second, .third, .final {
+    display: flex;
+    width: 100%;
+}
